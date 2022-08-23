@@ -1,0 +1,17 @@
+#addToCart:hover{
+    color: white !important;
+    background-color: red;
+    font-weight: bold;
+    
+}
+
+#addToCart{
+    font-weight: bold;
+}
+
+#addToCartPlus{
+    font-weight: bold;
+}
+#addToCartMinus{
+    font-weight: bold;
+}

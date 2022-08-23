@@ -1,0 +1,29 @@
+.registerForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  font-weight: 500;
+  height: 400px;
+}
+
+
+.registerForm input {
+  width: 250px;
+}
+
+.mainDiv {
+  height: 390px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 80px; */
+}
+.divForm {
+  background-color: gray;
+  width: 350px;
+  border-radius: 7px;
+  /* height: 250px; */
+  /* padding: 10px; */
+}

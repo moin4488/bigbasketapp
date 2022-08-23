@@ -1,0 +1,18 @@
+#cardDiv {
+  display: flex;
+  justify-content: center;
+}
+
+#cardDiv2 {
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  width: 400px;
+  background-color: lightcoral;
+}
+
+#formDiv {
+  width: 300px;
+  padding: 20px;
+}
+

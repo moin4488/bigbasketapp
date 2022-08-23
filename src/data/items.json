@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nickname":"peanuts",
+    "name": "Peanuts/Shengdane",
+    "price": 81,
+    "imgUrl": "https://www.bigbasket.com/media/uploads/p/m/10000442_18-bb-royal-peanuts-mungaphalishengdana-raw.jpg",
+    "desc": "A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs.",
+    "category":"foodgrains"
+  },
+  {
+    "id": 2,
+    "nickname":"tea",
+    "name": "Red Label Tea",
+    "price": 300,
+    "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/226491_10-red-label-tea-natural-care.jpg",
+    "desc": "A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs.",
+    "category":"beverages"
+  },
+  {
+    "id": 3,
+    "nickname":"almond",
+    "name": "Almond/Badam",
+    "price": 50,
+    "imgUrl": "https://www.bigbasket.com/media/uploads/p/m/40072510_14-bb-royal-organic-almondbadam.jpg",
+    "desc": "A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs.",
+    "category":"foodgrains"
+  },
+  {
+    "id": 4,
+    "nickname":"jeera",
+    "name": "Cumin/Jeera - Whole",
+    "price": 40,
+    "imgUrl": "https://www.bigbasket.com/media/uploads/p/m/40026603_9-bb-royal-cuminjeera-whole.jpg",
+    "desc": "A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs."
+  },
+  {
+    "id": 5,
+    "nickname":"maggi",
+    "name": "Maggi Noodles",
+    "price": 24,
+    "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/266109_19-maggi-2-minute-instant-noodles-masala.jpg",
+    "desc": "A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs.",
+    "category":"snacks"
+  },
+  {
+    "id": 6,
+    "nickname":"jeera",
+    "name": "Frozen Green Peas",
+    "price": 105,
+    "imgUrl": "https://www.bigbasket.com/media/uploads/p/m/40163718_11-fresho-frozen-green-peas.jpg",
+    "desc": "A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs.",
+    "category":"foodgrains"
+  },
+  {
+    "id": 7,
+    "nickname":"coconut",
+    "name": "Coconut Water",
+    "price": 450,
+    "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/1210082_2-raw-pressery-coconut-water.jpg",
+    "desc": "A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs.",
+    "category":"beverages"
+  },
+  {
+    "id": 8,
+    "nickname":"tomato",
+    "name": "Fresho Tomatoes",
+    "price": 30,
+    "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/10000200_17-fresho-tomato-hybrid.jpg",
+    "desc": "A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs.",
+    "category":"fruits"
+  }
+  
+]
